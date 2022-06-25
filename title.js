@@ -1,0 +1,1 @@
+document.write(`<div class="headr"><br><BR><BR><BR><BR><BR><h2o>ごて鯖 《Gote-Server》</h2o><br><h3o>このサーバーは、 Yuka0745 が運営する MCBE サーバーです!</h3o></div>`)
