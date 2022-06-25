@@ -3,7 +3,7 @@ body {
     width: 1200px;
     max-width: 100%;
     margin: auto;
-    background-image: url("images/background.png");
+    background-image: url("https://gote-server.github.io/images/background.png");
 }
 
 #main_content {
@@ -16,7 +16,7 @@ body {
 }
 
 .headr {
-    background: #42ce6c url(images/banner.png) no-repeat bottom / auto auto;
+    background: #42ce6c url(https://gote-server.github.io/images/banner.png) no-repeat bottom / auto auto;
     background-origin: border-box;
     height: 300px;
     padding-top: 10px;
